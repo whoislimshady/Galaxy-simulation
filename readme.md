@@ -36,8 +36,7 @@ pip install pygame-2.1.2
 
 Contributors names and contact info
 
-Harsh deep verma
-[@whoislimshady]
+Harsh verma
 
 
 ## License
