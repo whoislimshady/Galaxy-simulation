@@ -1,6 +1,6 @@
 # Galaxy simulation.
-Galaxy simulation with python
-![alt text](https://github.com/whoislimshady/Galaxy-simulation/blob/main/pic/Screenshot%20from%202022-02-20%2021-44-30.png?raw=true)
+
+![Galaxy simulation with python](https://github.com/whoislimshady/Galaxy-simulation/blob/main/pic/Screenshot%20from%202022-02-20%2021-44-30.png?raw=true)
 
 ## Description
 
